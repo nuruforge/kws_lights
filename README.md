@@ -4,7 +4,7 @@ This is is a Keyword spotting(kws) project based on ARMs [KWS model](https://www
 The hardware choice for this is Himax's [Wise Eye 2](https://www.himax.com.tw/products/wiseeye-ai-sensing/wiseeye2-ai-processor/).
 
 
-The code is bit challenging for a beginner please reffer to Himax's [SDK](https://himaxwiseeyeplus.github.io/) .
+The code is bit challenging for a beginner please refer to Himax's [SDK](https://himaxwiseeyeplus.github.io/) .
 
 ## SAMPLE DEMO
 ![KWS DEMO](./images/demo.png)
